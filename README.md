@@ -71,9 +71,25 @@ Without any waste of time, let's start our journey of web development.
 >   * `<head> </head>` - To configure what is to be dont behind the screen (css, javascript, meta imports, we will learn further)
 >   * `<body> </body>` - What is to be shown on the screen.
 #### Tags that can be put inside `<head> </head>` tag:
->   * `<title> </title>` - To show the text 
+>   * `<title> </title>` - To show the text inside it on the browser's tab name.
+>   * `<style> </style>` - To add css.
+>   * `<link> </link>` - To link fonts, logos, or stylesheets.
+#### Tags that can be put inside `<body> </body>` tag:
 #### Text tags:
 >   * `<b> </b>` - **Bold text.**
 >   * `<i> </i>` - _Italic text._
 >   * `<u> </u>` - Underlined text.
 >   * `<strong> </strong>` - Similar to bold text, but more **bolder**.
+>   * `<p> </p>` - Make a new paragraph.
+>   * `<font> </font>` - When we need custom colored fonts, larger fonts, etc. in the same line we are seeing
+#### Image, video and audio tags:
+>   * `<img/>` - Add image
+>   * `<video/>` - Video
+>   * `<audio/>` - Audio
+#### Form:
+>   * `<input/>` - Make an input field to type inside it.
+>   * `<button> </button>` - Make a button to submit a form.
+>   * `<a> </a>` - Click to open some link.
+#### Container Tags:
+>   * `<div> </div>`, `<span> </span>` and `<nav> </nav>` - To make empty containers and separate many elements and avoid mess.
+#### Table, Lists and many more are not important for now I think.
