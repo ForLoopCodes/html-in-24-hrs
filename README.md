@@ -62,3 +62,18 @@ Without any waste of time, let's start our journey of web development.
 > * You can't make your own lovely tag.
 > * Each tag has it's ending tag, as you see, ending tags have `</` instead of `<` in starting.
 > * But some tags like `<img/>` dont have starting tags, they have `/>` in ending which doesnt need an ending tag.
+
+## #5 How many tags are there?
+
+> * In this tutorial, we will learn only main tags that are required to become a pro programmar, and not deprecated tags.
+#### Important tags:
+>   * `<html> </html>` - Most important tag you have to make everytime, in every app, because it tells browser that the things inside it are html code.
+>   * `<head> </head>` - To configure what is to be dont behind the screen (css, javascript, meta imports, we will learn further)
+>   * `<body> </body>` - What is to be shown on the screen.
+#### Tags that can be put inside `<head> </head>` tag:
+>   * `<title> </title>` - To show the text 
+#### Text tags:
+>   * `<b> </b>` - **Bold text.**
+>   * `<i> </i>` - _Italic text._
+>   * `<u> </u>` - Underlined text.
+>   * `<strong> </strong>` - Similar to bold text, but more **bolder**.
